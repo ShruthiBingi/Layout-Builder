@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #e2e8f0;
+  display: flex;
+}
+.left-cont {
+  list-style-type: none;
+}
+.mid-cont {
+  background-color: #f1f5f9;
+}
+.right-cont {
+}
+.heading {
+  font-size: 20px;
+}
